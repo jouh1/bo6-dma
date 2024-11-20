@@ -25,7 +25,7 @@ __v003 Patch Notes__:
 -Updated to latest game version
 
 
-__v003v004 Patch Notes:__v003
+__v003v004 Patch Notes:__
 
 -Updated to latest game version
 
