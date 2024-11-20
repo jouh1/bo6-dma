@@ -11,7 +11,7 @@ https://imgur.com/a/ccLfOUC -- Visuals
 https://imgur.com/a/hiGFuTU -- Aimbot
 
 
-v002 Patch Notes:
+__v002 Patch Notes:__
 
 -Added all versions bnet, steam and xbox. (Select platform in misc)
 
@@ -20,11 +20,12 @@ v002 Patch Notes:
 -Added kmbox aimbot. (Select Kmbox type and enter info in misc)
 
 
-v003 Patch Notes:
+__v003 Patch Notes__:
 
 -Updated to latest game version
 
-v004 Patch Notes:
+
+__v003v004 Patch Notes:__v003
 
 -Updated to latest game version
 
