@@ -31,3 +31,8 @@ __v004 Patch Notes:__
 
 -Added Skeleton
 
+
+__v005 & v006 Patch Notes:__
+-Added switch team check
+-Added select kmbox in misc
+-Other fixes
