@@ -39,3 +39,11 @@ __v005 & v006 Patch Notes:__
 -Added select kmbox in misc
 
 -Other fixes
+
+
+__v007 Patch Notes:__
+
+-Update to latest game version
+
+-Update to latest windows 11 version
+
